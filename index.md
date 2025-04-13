@@ -10,6 +10,7 @@
 We applied K-Nearest Neighbors (KNN), Decision Trees, and Artificial Neural Networks (ANNs) to classify weather conditions, with preprocessing steps like scaling, feature selection, and hyperparameter tuning. Performance was evaluated using confusion matrices and accuracy metrics.  
 
 
+
 ---
 [Uncovering Digital Inequality with Machine Learning & Time Series Analysis](https://github.com/anjaalsen/Digital-Divide-insights-python))
 <p style="font-size:12px">This project applies a combination of exploratory data analysis (EDA), linear regression, unsupervised machine learning (k-means clustering), and time series analysis to uncover trends and segment patterns in global internet adoption from 1960 to 2022.
