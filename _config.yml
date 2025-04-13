@@ -1,13 +1,14 @@
-title: Anja Alsen # your name (or website title) here
-logo: "/images/_I1A0485_crop_ki erweitert_klein.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Anja Alsen
+logo: "/images/Anja_Alsen_Gitlogo.png" # oder mit %20 falls du Leerzeichen nutzt
+description: > 
+  First description  
   <br><br>
-  Second description 
+  Second description  
   <br><br>
-  <a href="https://https://www.linkedin.com/in/anja-a-141ba5150/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/anja-a-141ba5150/">View My LinkedIn Profile</a> 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0
+
