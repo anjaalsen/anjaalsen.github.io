@@ -13,11 +13,12 @@ We used K-Nearest Neighbors, Decision Trees, and Artificial Neural Networks to c
 
 ---
 
-#### [Uncovering Digital Inequality with Machine Learning & Time Series Analysis](https://github.com/anjaalsen/Digital-Divide-insights-python)
+#### [Analyzing Global Internet Adoption with Regression, Clustering & Time Series Methods](https://github.com/anjaalsen/Digital-Divide-insights-python)
 
-This project applies a combination of exploratory data analysis (EDA), linear regression, unsupervised machine learning (k-means clustering), and time series analysis to uncover trends and segment patterns in global internet adoption from 1960 to 2022.  
+This project analyzes the relationship between internet adoption and economic development using World Bank data (1960–2022) and geo-referenced country data. It combines Python for statistical analysis and Tableau for interactive visualization.
 
-The analysis is built on World Bank datasets and enriched with geographic data from Natural Earth. Preprocessing steps include scaling, imputation, normalization, and the results are visualized in an interactive Tableau dashboard.
+Using pandas and seaborn, we explored trends and correlations. Linear regression analyzed GDP’s impact on internet use, K-means clustering grouped countries by economic and digital factors, and time series analysis assessed long-term internet adoption trends.
+
 
 ---
 [Project 3 Title](http://example.com/)
