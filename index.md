@@ -6,11 +6,10 @@
 
 #### [Predicting Weather with Machine Learning](https://github.com/anjaalsen/ClimateWins-insights-python)
 
-This project explores how machine learning can help small organizations analyze complex climate patterns and support climate adaptation.  
-Using historical weather data from 18 European stations (1960–2022), we tested the link between sunshine, temperature, precipitation, and "pleasant weather."  
+This project explores how machine learning can support small organizations in analyzing complex climate patterns for adaptation.
+Using historical weather data from 18 European stations (1960–2022), we examined links between sunshine, temperature, precipitation, and "pleasant weather."
 
-We applied K-Nearest Neighbors (KNN), Decision Trees, and Artificial Neural Networks (ANNs) to classify weather conditions, with preprocessing steps like scaling, feature selection, and hyperparameter tuning.  
-Performance was evaluated using confusion matrices and accuracy metrics.
+We used K-Nearest Neighbors, Decision Trees, and Artificial Neural Networks to classify conditions, applying preprocessing like scaling, feature selection, and tuning. Performance was assessed with confusion matrices and accuracy scores.
 
 ---
 
