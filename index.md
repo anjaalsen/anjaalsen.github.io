@@ -26,13 +26,16 @@ Using pandas and seaborn, I explored trends and correlations. Linear regression 
 
 ---
 
-### Category Name 2
+### SQL
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+#### [SQL Analysis for Online Video Rental Market Strategy](https://github.com/anjaalsen/Rockbuster-insights-sql)
+
+This project uses SQL and PostgreSQL to analyze movie rental data in support of a digital launch strategy. By examining rental durations, genre profitability, customer distribution, and regional revenues, the analysis provides data-driven insights to inform business decisions in a competitive online video rental market.
+
+<!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/) -->
 
 ---
 
