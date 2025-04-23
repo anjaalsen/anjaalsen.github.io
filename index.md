@@ -4,9 +4,9 @@
 
 ### Machine Learning
 
-#### [ClimateWins: Predicting Pleasant Weather with Machine Learning](https://github.com/anjaalsen/ClimateWins-insights-python)
+#### [Predicting Weather with Machine Learning](https://github.com/anjaalsen/ClimateWins-insights-python)
 
-As part of the NGO ClimateWins, this project explores how machine learning can help small organizations analyze complex climate patterns and support climate adaptation.  
+This project explores how machine learning can help small organizations, like the NGO ClimateWins analyze complex climate patterns and support climate adaptation.  
 Using historical weather data from 18 European stations (1960–2022), we tested the link between sunshine, temperature, precipitation, and "pleasant weather."  
 
 We applied K-Nearest Neighbors (KNN), Decision Trees, and Artificial Neural Networks (ANNs) to classify weather conditions, with preprocessing steps like scaling, feature selection, and hyperparameter tuning.  
