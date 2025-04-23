@@ -20,8 +20,8 @@ This project analyzes the relationship between internet adoption and economic de
 Using pandas and seaborn, I explored trends and correlations. Linear regression analyzed GDP’s impact on internet use, K-means clustering grouped countries by economic and digital factors, and time series analysis assessed long-term internet adoption trends.
 
 
----
-<!-- [Project 3 Title](http://example.com/)
+<!-- ---
+[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
